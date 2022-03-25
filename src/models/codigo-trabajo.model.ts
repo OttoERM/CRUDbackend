@@ -10,13 +10,13 @@ export class CodigoTrabajo extends Entity {
   id?: string;
 
   @property({
-    type: 'number',
+    type: 'string',
     required: true,
   })
   antiguedad: number;
 
   @property({
-    type: 'number',
+    type: 'string',
     required: true,
   })
   diasOtorgados: number;

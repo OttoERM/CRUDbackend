@@ -1911,10 +1911,10 @@
             "type": "string"
           },
           "antiguedad": {
-            "type": "number"
+            "type": "string"
           },
           "diasOtorgados": {
-            "type": "number"
+            "type": "string"
           },
           "vigente": {
             "type": "boolean"
@@ -1933,10 +1933,10 @@
         "description": "(tsType: Omit<CodigoTrabajo, 'id'>, schemaOptions: { title: 'NewCodigoTrabajo', exclude: [ 'id' ] })",
         "properties": {
           "antiguedad": {
-            "type": "number"
+            "type": "string"
           },
           "diasOtorgados": {
-            "type": "number"
+            "type": "string"
           },
           "vigente": {
             "type": "boolean"
@@ -1959,10 +1959,10 @@
             "type": "string"
           },
           "antiguedad": {
-            "type": "number"
+            "type": "string"
           },
           "diasOtorgados": {
-            "type": "number"
+            "type": "string"
           },
           "vigente": {
             "type": "boolean"
@@ -1985,10 +1985,10 @@
             "type": "string"
           },
           "antiguedad": {
-            "type": "number"
+            "type": "string"
           },
           "diasOtorgados": {
-            "type": "number"
+            "type": "string"
           },
           "vigente": {
             "type": "boolean"
